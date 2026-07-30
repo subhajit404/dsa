@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhajit404/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhajit404/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subhajit404/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
