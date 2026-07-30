@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhajit404/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/subhajit404/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhajit404/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhajit404/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhajit404/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subhajit404/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhajit404/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/subhajit404/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -138,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/subhajit404/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
