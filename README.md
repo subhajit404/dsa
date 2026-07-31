@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhajit404/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhajit404/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhajit404/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhajit404/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subhajit404/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
