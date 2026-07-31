@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/subhajit404/dsa/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
