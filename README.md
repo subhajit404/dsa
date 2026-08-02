@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/subhajit404/dsa/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/subhajit404/dsa/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhajit404/dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhajit404/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/subhajit404/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subhajit404/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/subhajit404/dsa/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
