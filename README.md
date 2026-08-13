@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhajit404/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/subhajit404/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/subhajit404/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhajit404/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhajit404/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhajit404/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhajit404/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
