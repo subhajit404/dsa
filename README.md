@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhajit404/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/subhajit404/dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/subhajit404/dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [3620-network-recovery-pathways](https://github.com/subhajit404/dsa/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/subhajit404/dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/subhajit404/dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
