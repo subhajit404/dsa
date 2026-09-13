@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/subhajit404/dsa/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
