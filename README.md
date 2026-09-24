@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [3524-find-x-value-of-array-i](https://github.com/subhajit404/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/subhajit404/dsa/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/subhajit404/dsa/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/subhajit404/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/subhajit404/dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/subhajit404/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subhajit404/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [3524-find-x-value-of-array-i](https://github.com/subhajit404/dsa/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/subhajit404/dsa/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subhajit404/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/subhajit404/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/subhajit404/dsa/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/subhajit404/dsa/tree/master/3903-smallest-stable-index-i) |
