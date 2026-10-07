@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subhajit404/dsa/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/subhajit404/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/subhajit404/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/subhajit404/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/subhajit404/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/subhajit404/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/subhajit404/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subhajit404/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
