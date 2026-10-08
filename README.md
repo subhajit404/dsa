@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0020-valid-parentheses](https://github.com/subhajit404/dsa/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/subhajit404/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/subhajit404/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/subhajit404/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/subhajit404/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhajit404/dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subhajit404/dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/subhajit404/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/subhajit404/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhajit404/dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subhajit404/dsa/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/subhajit404/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/subhajit404/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhajit404/dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subhajit404/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
