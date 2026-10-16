@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhajit404/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhajit404/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhajit404/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/subhajit404/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhajit404/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subhajit404/dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhajit404/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhajit404/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/subhajit404/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhajit404/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhajit404/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/subhajit404/dsa/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subhajit404/dsa/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subhajit404/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/subhajit404/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
