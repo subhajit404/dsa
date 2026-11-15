@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/subhajit404/dsa/tree/master/0324-wiggle-sort-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/subhajit404/dsa/tree/master/0324-wiggle-sort-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/subhajit404/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhajit404/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
