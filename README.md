@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0485-max-consecutive-ones](https://github.com/subhajit404/dsa/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
+| [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/subhajit404/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/subhajit404/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subhajit404/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhajit404/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
