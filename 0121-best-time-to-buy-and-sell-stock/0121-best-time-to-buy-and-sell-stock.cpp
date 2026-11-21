@@ -1,32 +1,17 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+        int buy_p = prices[0];
         int n = prices.size();
-        int buy_p = 0;
-        int cur_max = 0;
-        int max_p = 0;
-        int i = 0;
-
-        buy_p = prices[i];
-
-        while (i < n - 1) {
-            if (buy_p > prices[i + 1]) {
-                buy_p = prices[i + 1];
-                i++;
-            } 
-            else if (buy_p <= prices[i + 1]) {
-                cur_max = prices[i + 1] - buy_p;
-                i++;
-            }
-
-            if (cur_max > max_p) {
-                max_p = cur_max;
+        int profit = 0;
+        for (int i = 0; i < n; i++) {
+            if (prices[i] < buy_p)
+                buy_p = prices[i];
+            else {
+                int current_p = prices[i] - buy_p;
+                profit = max(current_p, profit);
             }
         }
-        return max_p;
+        return profit;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
