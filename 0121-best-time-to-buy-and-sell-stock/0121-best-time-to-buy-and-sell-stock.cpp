@@ -9,7 +9,8 @@ public:
                 buy_p = prices[i];
             else {
                 int current_p = prices[i] - buy_p;
-                profit = max(current_p, profit);
+                // profit = max(current_p, profit);
+                if (current_p >profit ) profit = current_p;
             }
         }
         return profit;
