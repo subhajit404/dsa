@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/subhajit404/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/subhajit404/dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Game Theory
