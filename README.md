@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0014-longest-common-prefix](https://github.com/subhajit404/dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhajit404/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/subhajit404/dsa/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/subhajit404/dsa/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhajit404/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/subhajit404/dsa/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/subhajit404/dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
