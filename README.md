@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/subhajit404/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/subhajit404/dsa/tree/master/1288-remove-covered-intervals) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subhajit404/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/subhajit404/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhajit404/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/subhajit404/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhajit404/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/subhajit404/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
