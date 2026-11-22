@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhajit404/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0001-two-sum](https://github.com/subhajit404/dsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/subhajit404/dsa/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/subhajit404/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/subhajit404/dsa/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subhajit404/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subhajit404/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/subhajit404/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/subhajit404/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/subhajit404/dsa/tree/master/0324-wiggle-sort-ii) |
@@ -357,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/subhajit404/dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
