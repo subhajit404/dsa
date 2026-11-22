@@ -353,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/subhajit404/dsa/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhajit404/dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
