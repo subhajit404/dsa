@@ -1,12 +1,5 @@
 class Solution {
   public:
-  int power(int a,int b){
-      int n = a;
-      for(int i=0;i<b-1;i++){
-          a =a*n;
-      }
-      return a;
-  }
     bool armstrongNumber(int n) {
       // code here
       int count = 0;
@@ -19,7 +12,7 @@ class Solution {
       int sum = 0;
       for(int i=0;i<count;i++){
           int a = n%10;
-          sum+=power(a,count);
+          sum+=pow(a,count);
           n/=10;
       }
       if(org == sum ) return true;
