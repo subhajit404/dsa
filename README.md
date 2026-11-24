@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1572-matrix-diagonal-sum](https://github.com/subhajit404/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/subhajit404/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subhajit404/dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/subhajit404/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/subhajit404/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/subhajit404/dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/subhajit404/dsa/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/subhajit404/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/subhajit404/dsa/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subhajit404/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
