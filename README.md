@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0283-move-zeroes](https://github.com/subhajit404/dsa/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/subhajit404/dsa/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/subhajit404/dsa/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/subhajit404/dsa/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0054-spiral-matrix](https://github.com/subhajit404/dsa/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/subhajit404/dsa/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/subhajit404/dsa/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/subhajit404/dsa/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/subhajit404/dsa/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/subhajit404/dsa/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/subhajit404/dsa/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhajit404/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/subhajit404/dsa/tree/master/3498-reverse-degree-of-a-string) |
