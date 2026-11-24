@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/subhajit404/dsa/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/subhajit404/dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/subhajit404/dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subhajit404/dsa/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subhajit404/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhajit404/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/subhajit404/dsa/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/subhajit404/dsa/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/subhajit404/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/subhajit404/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/subhajit404/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhajit404/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/subhajit404/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/subhajit404/dsa/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/subhajit404/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/subhajit404/dsa/tree/master/0498-diagonal-traverse) |
