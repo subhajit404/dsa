@@ -4,21 +4,21 @@ class Solution {
       // code here
       vector<int> result;
 
-      for (int n = l; n <= r; n++) {
-        if (n < 2)
+      for (int i = l; i <= r; i++) {
+        if (i < 2)
           continue;
 
         bool isPrime = true;
 
-        for (int i = 2; i <= n / i; i++) {
-          if (n % i == 0) {
+        for (int j = 2; j <= i / j; j++) {
+          if (i % j == 0) {
             isPrime = false;
             break;
           }
         }
 
         if (isPrime) {
-          result.push_back(n);
+          result.push_back(i);
         }
       }
 
