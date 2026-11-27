@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/subhajit404/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subhajit404/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subhajit404/dsa/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/subhajit404/dsa/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/subhajit404/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subhajit404/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subhajit404/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
